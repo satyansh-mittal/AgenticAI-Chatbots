@@ -1,0 +1,20 @@
+# Daily AI News Summary
+
+Here are the news articles summarized in markdown format:
+
+### **2025-07-20**
+- [Chinese firms exploring agriculture chain cooperation with Pakistan](https://dailytimes.com.pk/1338615/chinese-firms-exploring-agriculture-chain-cooperation-with-pakistan/) - Chinese firms are exploring agriculture chain cooperation with Pakistan.
+
+### **2025-07-19**
+- [OpenAI's AI crushes coding legends in 10-hour programming contest, but one human still beat the bot](https://www.indiatoday.in/technology/news/story/openais-ai-crushes-coding-legends-in-10-hour-programming-contest-but-one-human-still-beat-the-bot-2758173-2025-07-19) - OpenAI's AI model crushes coding legends in a 10-hour programming contest, but one human still beats the bot.
+- [Class 10 student hangs self over nagging by parents due to smoking in Rajasthan: Cops](https://www.ndtv.com/india-news/class-10-student-hangs-self-over-nagging-by-parents-due-to-smoking-in-rajasthan-cops-8908629) - A Class 10 student in Rajasthan hangs himself due to nagging by parents over his smoking habit.
+- [Envision Energy plans growth with AI solutions, wind projects, and expanded local manufacturing in India](https://www.manufacturingtodayindia.com/envision-energy-celebrates-9-years) - Envision Energy plans to expand its operations in India with AI solutions, wind projects, and local manufacturing.
+- [AI Bot Flips Wall Street on Its Head: Turns $1K into $50K in Record 30 Days](https://www.theleafchronicle.com/story/news/health/2025/07/19/man-dies-mri-necklace-new-york/85288534007/) - A new AI trading robot reportedly generates a return of $14,158 from a $3,200 investment over the course of a week.
+- [Nifty ends 3rd straight week in red, bearish momentum strengthens below 20 DEMA: Sudeep Shah](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-google-earnings-ai-stock-nvidia-amd/) - The Nifty ends the week in the red, with bearish momentum strengthening.
+- [AI Platform Transforms $900 into $38,000 in 30 Days for Beginners](https://www.skynews.com.au/opinion/outsiders/appalling-attempts-made-to-stop-zionist-singer-from-performing-in-sydney/video/432f73f04dd2ea292a57b424a4dc5467) - An AI platform reportedly generates a return of $38,000 from an initial investment of $900 in just 30 days.
+- [Google is giving OpenAI more computing power to keep up with everyone’s AI cravings](https://www.androidcentral.com/wearables/google-pixel-watch/pixel-watch-4-could-finally-tackle-whats-been-holding-googles-wearables-back) - Google is giving OpenAI more computing power to keep up with the growing demand for AI solutions.
+- [Artificial intelligence (AI) tools a gamechanger for film-makers](https://www.theguardian.com/technology/artificialintelligenceai/2025/jul/20/all) - AI tools are revolutionizing the film-making industry, allowing for high-grade work to be produced quickly and efficiently.
+- [AI Bot Flips Wall Street on Its Head: Turns $1K into $50K in Record 30 Days](https://www.augustachronicle.com/story/news/2025/07/19/unemployment-numbers/85255993007/) - A new AI trading robot reportedly generates a return of $14,158 from a $3,200 investment over the course of a week.
+- [Katy Perry nearly falls on fans as tour prop malfunctions mid-air during concert; scary video surfaces online](https://www.hindustantimes.com/entertainment/music/katy-perry-nearly-falls-on-fans-as-tour-prop-malfunctions-mid-air-during-concert-scary-video-surfaces-online-101752912662307.html) - Katy Perry nearly falls on her fans during a concert when a tour prop malfunctions.
+- [White House warns on AI and electricity prices | Fox News](https://www.foxnews.com/tech/ai-newsletter-warning-electricity-prices) - The White House warns about the potential risks of AI on electricity prices.
+- [‘Stay Realistic,’ Says Piper Sandler About SoundHound AI Stock](https://www.tipranks.com/news/stay-realistic-says-piper-sandler-about-soundhound-ai-stock) - Piper Sandler advises investors to be realistic about the potential of SoundHound AI stock.
